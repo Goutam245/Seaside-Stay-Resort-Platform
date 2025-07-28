@@ -36,6 +36,7 @@ Revenue Impact: $2.3M+ in direct booking attribution
 ♿ Accessibility: WCAG 2.1 compliant with inclusive design
 🌐 Compatibility: Cross-browser support across all modern platforms
 
+
 👨‍💻 Created By
 🌟 Goutam Roy - Senior Frontend Developer
 📧 goutam.roy.421917@gmail.com | 📱 +880 174 759 3452

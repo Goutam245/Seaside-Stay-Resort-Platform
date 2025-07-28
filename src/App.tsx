@@ -16,6 +16,7 @@ import { LanguageProvider } from "./contexts/LanguageContext";
 // Create a react-query client
 const queryClient = new QueryClient();
 
+
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
